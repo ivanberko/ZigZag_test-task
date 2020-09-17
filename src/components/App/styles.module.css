@@ -1,0 +1,14 @@
+.openModal {
+  display: block;
+  margin-left: 0;
+  font-weight: bold;
+  font-size: 14px;
+  color: #282a3b;
+  background-color: #83f6b1;
+  padding: 14px 24px;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0px 0px 15px 0px #83f6b1;
+  cursor: pointer;
+  outline: none;
+}

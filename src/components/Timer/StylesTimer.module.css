@@ -1,0 +1,18 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #83f6b1;
+  font-size: 22px;
+  margin-bottom: 28px;
+}
+
+.timer::before {
+  content: '';
+  width: 19px;
+  height: 19px;
+  background-image: url(../../img/Vector.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 8px;
+}
