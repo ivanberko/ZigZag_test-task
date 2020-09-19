@@ -14,5 +14,8 @@
   background-image: url(../../img/Vector.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right: 8px;
+}
+
+.timer p {
+  width: 100px;
 }
